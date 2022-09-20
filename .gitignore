@@ -76,9 +76,14 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+Lib/
+Scripts/
+
 .env
 db.sqlite3
 .idea/
+
+Dockerfile
 
 __pycache__/
 
